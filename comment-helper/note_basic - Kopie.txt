@@ -1,6 +1,0 @@
-[Muss-Regeln]
-klnasdkjnaskdjsakd
-
-
-[base-test]
-<b>bold</b><br>

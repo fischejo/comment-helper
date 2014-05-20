@@ -1,0 +1,20 @@
+[Basics]
+Each comment has to fit into one line. But the character count does not matter.
+You can assign your comments to sections, also it is easier to find them again in the editor. Sections begin with <code>[</code> and end with <code>]</code>.
+
+Emty lines doesn't matter in the source file.
+You can select multiple source files. Similar sections will be merged.
+
+
+[Html-Support]
+<p><b>This text is bold</b></p>
+<p><strong>This text is strong</strong></p>
+<p><i>This text is italic</i></p>
+<p><em>This text is emphasized</em></p>
+<p><code>This is computer output</code></p>
+<p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
+<p>This is a <code>code</code> tag</p>
+
+[Editor]
+By clicking on comment lines, you select them. Your selection will be automatically put to your clipboard.
+Press <code>ctrl</code> and you can select multiple lines. But take care, the order of selecting matters.
