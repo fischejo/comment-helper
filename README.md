@@ -18,8 +18,8 @@ Features
 Usage
 =====
  1. Download repository & import in eclipse as project.
- 2. Start comment-helper and choose the [comment-example.txt!] (comment-helper/comment-example.txt) file.
- 2. Look at the [comment-example.txt!] (comment-helper/comment-example.txt) and learn more about syntax.
+ 2. Start comment-helper and choose the [comment-example.txt] (comment-helper/comment-example.txt) file.
+ 2. Look at the [comment-example.txt] (comment-helper/comment-example.txt) and learn more about syntax.
  3. Write your own comment source files.
 
 Dependencies
