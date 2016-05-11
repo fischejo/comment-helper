@@ -1,6 +1,6 @@
 Introduction
 ============
-Tool for merging muliple comments and putting to clipboard. Perfect for tutors, teachers and online marking.
+Tool for merging multiple comments and putting to clipboard. Perfect for tutors, teachers and online marking.
 
 ![Alt text](screen.png)
 
